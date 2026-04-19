@@ -1,0 +1,1 @@
+color_ptr: db 0

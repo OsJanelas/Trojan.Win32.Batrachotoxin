@@ -1,0 +1,1 @@
+nasm -f bin batrachotoxin/MBR/batrachotoxin.asm -o batrachotoxin/MBR/batrachotoxin.bin
