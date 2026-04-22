@@ -8,4 +8,4 @@ https://github.com/whypet
 
 https://github.com/BelkasPro
 
-https://github.com/pankoza
+https://github.com/pankoza2-pl
